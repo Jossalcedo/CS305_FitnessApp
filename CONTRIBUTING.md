@@ -1,16 +1,16 @@
 1) WorkoutIndex
 
           In this class I would have the option to choose what kind of workouts the user wants to do, wether it be cardio or weight lifting.
-          The third option would be a signup/newsletterpage. 
+          The third option would be a signup/newsletterpage.
 
 2) CardioWorkouts
 
-          This class would be an option from the WorkoutIndex where there would be a variety of workouts regarding cardio. 
+          This class would be an option from the WorkoutIndex where there would be a variety of workouts regarding cardio.
           The user could then add the workouts they want to save to the fifth SavedWorkouts class.
 
 3) WeightLifting
 
-          This class would be the one that has the most work done since it highlights every muscle in the body for the user to see. 
+          This class would be the one that has the most work done since it highlights every muscle in the body for the user to see.
           Depending on where the user clicks, it would show the workouts and also give the option to save to the SavedWorkouts class.
 
 4) SignUp
@@ -25,3 +25,4 @@
 The CardioWorkout and WeightLifting classes would have the most data storage, since workouts can range to over 10 per muscle.
 
 It should be considered to include modularity in order to create other classes, such as Yoga.
+changes were made
