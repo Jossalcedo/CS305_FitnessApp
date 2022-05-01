@@ -23,3 +23,5 @@
 
 
 The CardioWorkout and WeightLifting classes would have the most data storage, since workouts can range to over 10 per muscle.
+
+It should be considered to include modularity in order to create other classes, such as Yoga.
